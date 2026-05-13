@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "skills": {
+    "broken-link-checker": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "seo/broken-link-checker/SKILL.md",
+      "computedHash": "4040a27a4aa4648ecc3e481484cc4f2a3cfd00c5f820f88aae50005e1af419f9"
+    },
+    "content-writer": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "seo/content-writer/SKILL.md",
+      "computedHash": "4e8d2117450069a92d8ab469e94b905251f366709d22bfb507fc7014d638f1bd"
+    },
+    "gemini": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "gemini/SKILL.md",
+      "computedHash": "e784566253fe50eaf5214abc39569e572e6af02ba9aeb9753d60fac86c5f879b"
+    },
+    "geo-optimizer": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "seo/geo-optimizer/SKILL.md",
+      "computedHash": "3770fde686442e9fb7aefe5263290a0c45d314f691629d799f562df85973d712"
+    },
+    "google-ads": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "google-ads/manage/SKILL.md",
+      "computedHash": "3d25a433ea13342a7542810ebca8fbea385fb7fef5488986c0158804d75e0dea"
+    },
+    "google-ads-audit": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "google-ads/audit/SKILL.md",
+      "computedHash": "f27aea323bcf9a3624520c91d7a2e342d8606176a1b962b5321f10adbc10f264"
+    },
+    "google-ads-copy": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "google-ads/copy/SKILL.md",
+      "computedHash": "9dfe5cfc8b35f8063936578b06fb530ab5a77283d1c1dde52adac71d5cd6661a"
+    },
+    "google-ads-landing": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "google-ads/landing/SKILL.md",
+      "computedHash": "5a42df374e51cc1d06f65fd71e9e36d54cf3f78951e37acb0227321b112d0615"
+    },
+    "keyword-research": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "seo/keyword-research/SKILL.md",
+      "computedHash": "b3c957ca5fd3298164c492722f94487dce8eb1a13f5fd2d88289e4fafe9c4bf3"
+    },
+    "meta-ads": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "meta-ads/manage/SKILL.md",
+      "computedHash": "89fa525efd0a24e68dad2740658170312e313ea713da4b75015a9a4eb224904a"
+    },
+    "meta-ads-audit": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "meta-ads/audit/SKILL.md",
+      "computedHash": "16f5014f46e198eab97892294288eef2e74b8fa40beac3c9d742cabbf214c0c4"
+    },
+    "meta-tags-optimizer": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "seo/meta-tags-optimizer/SKILL.md",
+      "computedHash": "c4d875e8588b606621cc4106e6589f87edb5bdf9e39fb8f0098cbb628423da1c"
+    },
+    "schema-markup-generator": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "seo/schema-markup-generator/SKILL.md",
+      "computedHash": "a7f35d7d35c5853bdb096aefdb56d821427d0f46167822a27bb7aea5e208f310"
+    },
+    "seo-analysis": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "seo/seo-analysis/SKILL.md",
+      "computedHash": "182c24fd337bde992b32a00fcdffc64366b2b983713c89c3d4f464eff92a2416"
+    },
+    "seo-page": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "seo/seo-page/SKILL.md",
+      "computedHash": "26c8a1a66ed9c15c418e590b2b49ba9770313d848284273b0c3d775308b28e1a"
+    },
+    "setup-cms": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "seo/setup-cms/SKILL.md",
+      "computedHash": "77d7cee6a697e3125c9cbfae9f55f05110a31a2bd230eec821b9d8bf5eba1ab2"
+    },
+    "toprank-upgrade": {
+      "source": "nowork-studio/toprank",
+      "sourceType": "github",
+      "skillPath": "toprank-upgrade-skill/SKILL.md",
+      "computedHash": "663f12e9f603e63acef294e5ea2bd2255693b97c08820bc9e22ebb1690a0102e"
+    }
+  }
+}
